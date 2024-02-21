@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: vas
-          image: saturn203/vas
+          image: ukjukang/vas
           ports:
           - name: http
             containerPort: 8080
